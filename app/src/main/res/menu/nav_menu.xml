@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+<!--    <item>-->
+
+<!--    </item>-->
+
+
+    <item
+        android:title="MM"/>
+
+
+
+    <item
+        android:id="@+id/nav_profle"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Profile"/>
+
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/ic_baseline_dashboard_customize_24"
+        android:title="Dashboard"/>
+
+    <item
+        android:id="@+id/nav_machine"
+        android:icon="@drawable/ic_baseline_agriculture_24"
+        android:title="Machines"/>
+
+    <item
+        android:id="@+id/nav_staffRegisteration"
+        android:icon="@drawable/ic_baseline_co_present_24"
+        android:title="Staff Registration"/>
+
+    <item
+        android:id="@+id/nav_rent"
+        android:icon="@drawable/ic_baseline_library_books_24"
+        android:title="Rent"/>
+
+    <item
+        android:id="@+id/nav_back"
+        android:icon="@drawable/ic_baseline_arrow_back_ios_new_24"
+        android:title="Back"/>
+
+
+
+
+
+
+</menu>
